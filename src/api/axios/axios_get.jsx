@@ -7,7 +7,6 @@ axioos.defaults.baseURL = "/";
 
 // if (process.env.NODE_ENV === "development") {
 axioos.defaults.baseURL = "https://adsfasdfasdfasdf";
-// mongodb+srv://dashboard:J0xgfOv8YL4Az1d5@mongolnftprod.tmeq2.mongodb.net/mnft
 // }
 
 const errorHandler = (data) => {
